@@ -15,4 +15,4 @@ This repository contains a Power BI dashboard that provides insights into the sa
 - **DAX (Data Analysis Expressions)**: For creating calculated columns, measures, and tables.
 
 ## 📸 Dashboard Preview
-*(Include a screenshot of your dashboard here for better understanding)*
+*screenshot uploaded*
